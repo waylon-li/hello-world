@@ -48,4 +48,8 @@
 	克隆到本地的仓库会自动关联远程仓库，可以通过git remote -v 命令查看关联状态
 	关联通过后可以通过 git push origin master 命令推送修改
 
-^_^
+	git add README.md
+	git commit -m "add linux info"
+	git push origin master
+
+^_^ success!
