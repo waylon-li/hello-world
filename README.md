@@ -22,3 +22,6 @@
 
 ##### 6、提交到guthub 的网络版本库中；
 	git_bash:	git push origin master
+
+### linux下github 的使用：
+
